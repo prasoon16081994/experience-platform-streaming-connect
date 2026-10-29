@@ -16,10 +16,10 @@ ext {
 }
 
 versions.collections4 = '4.4'
-versions.commonslang = '3.9'
-versions.guava = '32.0.0-jre'
+versions.commonslang = '3.18.0'
+versions.guava = '33.7.2-jre'
 versions.httpClient = '4.5.13'
-versions.jackson = '2.14.0'
+versions.jackson = '2.18.11'
 versions.jmockit = '1.41'
 versions.jmxPrometheusJavaAgent = '0.12.0'
 versions.junitJupiter = '5.2.0'
